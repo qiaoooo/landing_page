@@ -1,15 +1,33 @@
-# landing page
+<a name="readme-top"></a>
 
-a landing page for nano degree front end web developer udacity
+<br />
+<div align="center">
 
-## Table of Contents
+<h3 align="center">Landing page</h3>
 
-- [Instructions](#instructions)
+  <p align="center">
+    This is a landing page template using html and css.
+    <br />
+    <a href="https://github.com/qiaoooo/landing_page"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+  </p>
+</div>
 
-## Instructions
+## About The Project
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+This project is a course project for Udacity Front End Web Developer Nanodegree program
 
-To get started, open `js/app.js` and start building out the app's functionality
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Getting Started
+
+Please download the file to local and open index.html in browser.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contact
+
+Project Link: [https://github.com/qiaoooo](https://github.com/qiaoooo)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

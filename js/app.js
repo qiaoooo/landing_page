@@ -99,7 +99,7 @@ document.addEventListener("click", function (e) {
 let prevScrollPos = window.pageYOffset;
 window.onscroll = function () {
   let currentScrollPos = window.pageYOffset;
-  console.log(prevScrollPos, currentScrollPos);
+  //console.log(prevScrollPos, currentScrollPos);
   setTimeout(function () {
     if (Math.abs(currentScrollPos - prevScrollPos) < 5) {
       document.getElementsByClassName("navbar__menu")[0].style.display = "none";
